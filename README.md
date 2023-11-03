@@ -1,6 +1,6 @@
-# Curso-USP-Coursera-Part-1
+# Curso USP Coursera - Parte 1
 
-Listas de exercícios e projetos que realizei ao longo do curso de Ciência da Computação parte 1 do Coursera.
+Listas de exercícios e projetos que realizei ao longo do curso de Ciência da Computação - Parte 1 do Coursera.
 
 São cerca de 6 listas de exercícios e 2 mini projetos.
 
@@ -11,9 +11,10 @@ São cerca de 6 listas de exercícios e 2 mini projetos.
 1. Baixe os arquivos.
 2. Baixe e instale o [Python](https://www.python.org/downloads/).
 3. Abra um terminal.
-4. Navegue até o diretório dos arquivos, como: ```cd caminho/para/o/diretorio```
-5. Execute o seguinte comando: ```python nome_do_arquivo.py```
-6. Faça oque o programa pedir.
+4. Navegue até o diretório dos arquivos, por exemplo: `cd caminho/para/o/diretório`.
+5. Execute o seguinte comando: `python nome_do_arquivo.py`.
+6. Siga as instruções do programa.
 
-### Este projeto teria 6 listas, porêm acabei perdendo os ultimos arquivoc, com o tempo eu irei refazer os ultimos exercicios e irei colocar aqui
-#### Lembre-se bem de mudar as sugestões de comando para o local ou arquivo para o qual você deseja ir ou executar.
+### Este projeto deveria ter 6 listas, no entanto, acabei perdendo os últimos arquivos. Com o tempo, irei refazer os últimos exercícios e colocá-los aqui.
+#### Lembre-se de adaptar as sugestões de comandos para o local ou arquivo que deseja acessar ou executar.
+
