@@ -15,4 +15,5 @@ São cerca de 6 listas de exercícios e 2 mini projetos.
 5. Execute o seguinte comando: ```python nome_do_arquivo.py```
 6. Faça oque o programa pedir.
 
+### Este projeto teria 6 listas, porêm acabei perdendo os ultimos arquivoc, com o tempo eu irei refazer os ultimos exercicios e irei colocar aqui
 #### Lembre-se bem de mudar as sugestões de comando para o local ou arquivo para o qual você deseja ir ou executar.
